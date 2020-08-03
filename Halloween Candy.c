@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main() {               // 1 Ağustos 2020
+int main() {               
 	int houses;
 	scanf("%d", &houses);
 	int percentage;
