@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main() {                // 1 Aðustos 2020
+int main() {                
 	int fruit;
 	scanf("%d", &fruit);
 	printf("%d", fruit/6);
