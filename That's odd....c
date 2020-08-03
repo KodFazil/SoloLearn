@@ -2,7 +2,7 @@
 // Task: Find the sum of all even integers in a list of numbers.
 
 #include<stdio.h> 
-int main() {              // 31 Temmuz 2020 < Fazıl >	
+int main() {              	
 	//take the length of array
 	int n;
 	scanf("%d", &n);
