@@ -2,7 +2,7 @@
 /*Task:If you given a string of random letters, your task is to evaluate whether
 any letter is repeated in the string or if you only hit unique keys while you typing. */
 #include<stdio.h>      
-int main() {                    
+int main() {               
 	//taking a string array
 	char array[10];
 	int i, j;
