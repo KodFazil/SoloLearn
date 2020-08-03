@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main() {           // 3 Aðustos 2020 < Fazýl >
+int main() {           
 	int cost=40, colorcost=5, tax=10, total=0, color; 
 	scanf("%d", &color);
 	total = (color * colorcost) + cost;
